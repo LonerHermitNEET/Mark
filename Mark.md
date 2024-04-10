@@ -224,7 +224,7 @@ Mark's frown grew deeper and deeper until he eventually looked away and pretende
 
 Sophia snorted when he saw that, returning them to the surface.
 
-"What did we even do there?" Matthew said, his expression full of regret after being honest earlier about his feelings. He didn't want to be a psychopath after all.
+"What did we even do there?" Mark said, his expression full of regret after being honest earlier about his feelings. He didn't want to be a psychopath after all.
 
 After rummaging through his items in his hidden container, Sophia gave him his blade. "Kill the villagers."
 
@@ -1692,7 +1692,7 @@ The older man was with him, and so was another woman, the one he spoke to at the
 
 Anyway, the woman and the older man had two different goals in mind. The woman wanted to remain in connection with Mark, whom she saw as one having authority, while the older man merely wanted someone to attach to in his time of great need.
 
-Matthew could exploit both requirements. The woman's was superficial, while the older man's was easily paid in roughly pressed gold coins.
+Mark could exploit both requirements. The woman's was superficial, while the older man's was easily paid in roughly pressed gold coins.
 
 He didn't even know their names, and that made it all the more easier to commit to the plan, his guilt bearing no presential burden upon his mind's eye.
 
@@ -1903,7 +1903,7 @@ He taunted the opponent, using insults that the older man taught him. And he suc
 
 The travelers expressed this impatience by jump-running forward practically and grabbing at him, using their strong calves to avoid the momentum loss and imbalance.
 
-Matthew used [Minor Distraction] this time, and the grip of the travelers became slightly weakened as a result.
+Mark used [Minor Distraction] this time, and the grip of the travelers became slightly weakened as a result.
 
 He also spat at them and blocked them, nudging them, dodging, and parrying. These were all skills.
 
@@ -2352,4 +2352,3 @@ Summune smiled nonetheless. The wind would blow happily whatever lay behind the 
 **[To enhance clarity, common skills were omitted for brevity's sake.]**
 
 But Summune was a berserker, and she had never established that to Mark.
-
